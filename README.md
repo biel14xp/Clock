@@ -8,6 +8,6 @@
 - CSS
 - Java Script
 
-# Updadetes:
+# Updadetes
 
 - Date
