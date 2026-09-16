@@ -5,3 +5,5 @@
 # Used Languages
 
 - HTML
+- CSS
+- Java Script
